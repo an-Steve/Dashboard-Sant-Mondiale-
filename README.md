@@ -1,31 +1,31 @@
-# 🌍 Dashboard Santé Mondiale (Interactif)
+#  Dashboard Santé Mondiale (Interactif)
 
 Une application web analytique permettant de visualiser les indicateurs clés de santé publique mondiale à travers des graphiques dynamiques et une cartographie interactive.
 
-![Aperçu général du Dashboard](overview.png)
+<img width="1178" height="842" alt="image" src="https://github.com/user-attachments/assets/fd25eaa9-f739-4287-8e69-72c8ab11fc93" />
 
 ## 🚀 Démo en direct
-[👉 Cliquez ici pour voir le Dashboard en ligne](https://ton-pseudo.github.io/nom-de-ton-repo/) 
+[👉 Cliquez ici pour voir le Dashboard en ligne](https://an-steve.github.io/Dashboard-Sant-Mondiale-/) 
 
 ---
 
-## ✨ Fonctionnalités Principales
+##  Fonctionnalités Principales
 
-### 📈 Vue d'ensemble & Mortalité
+###  Vue d'ensemble & Mortalité
 Analyse des indicateurs clés par région et répartition des causes de décès via un graphique en anneau (Donut Chart).
-![Graphiques Vue d'ensemble](charts-preview.png)
+<img width="575" height="442" alt="image" src="https://github.com/user-attachments/assets/7c6ca567-ac3e-4abd-805f-f382f88f4cc1" />
 
-### 🗺️ Cartographie Mondiale Interactive
+###  Cartographie Mondiale Interactive
 Carte choroplèthe développée avec **D3.js** permettant de visualiser l'espérance de vie et les dépenses de santé par pays avec un système de tooltip au survol.
-![Carte du monde interactive](map-preview.png)
+<img width="1152" height="742" alt="image" src="https://github.com/user-attachments/assets/e66ec44f-516a-4958-85fe-cb239e8f2353" />
 
-### 🎯 Comparateur de Pays (Radar Chart)
+###  Comparateur de Pays (Radar Chart)
 Outil permettant de sélectionner jusqu'à 5 pays pour comparer leurs performances sur plusieurs dimensions (santé, économie, prévention).
-![Comparaison Radar](radar-preview.png)
+<img width="1171" height="865" alt="image" src="https://github.com/user-attachments/assets/f82b5e4a-6bba-4dc6-8353-760054ee4280" />
 
 ---
 
-## 📊 Indicateurs Suivis
+##  Indicateurs Suivis
 
 | Indicateur | Unité | Description |
 | :--- | :--- | :--- |
@@ -36,14 +36,14 @@ Outil permettant de sélectionner jusqu'à 5 pays pour comparer leurs performanc
 
 ---
 
-## 🛠️ Technologies & Bibliothèques
+##  Technologies & Bibliothèques
 
 * **HTML5 / CSS3** : Design responsive avec **Mode Sombre** automatique.
 * **Chart.js** : Pour les graphiques dynamiques.
 * **D3.js & TopoJSON** : Pour la carte mondiale vectorielle.
 * **Vanilla JS** : Logique métier.
 
-## 📦 Installation rapide
+##  Installation rapide
 
 1.  Clonez le dépôt :
     ```bash
@@ -52,5 +52,6 @@ Outil permettant de sélectionner jusqu'à 5 pays pour comparer leurs performanc
 2.  Ouvrez `index.html` dans votre navigateur.
 
 ---
+Réalisé par **ANTON NELCON Steve**
 
 **Réalisé par :** ANTON NELCON Steve
